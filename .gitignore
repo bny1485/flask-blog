@@ -24,3 +24,8 @@ htmlcov/
 *,cover
 site.db
 __pycache__/flaskblog.cpython-38.pyc
+
+
+# images
+*.png
+*.jpg
